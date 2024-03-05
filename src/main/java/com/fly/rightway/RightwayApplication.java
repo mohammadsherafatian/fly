@@ -10,4 +10,5 @@ public class RightwayApplication {
 		SpringApplication.run(RightwayApplication.class, args);
 	}
 
+	//test change git
 }
